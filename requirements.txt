@@ -22,7 +22,7 @@ cloudpickle==0.2.1
 croniter==0.3.12
 cryptography==1.5.2
 daphne==0.15.0
-dask==0.10.2
+dask==2021.10.0
 decorator==4.0.10
 dill==0.2.5
 distributed==1.11.3
